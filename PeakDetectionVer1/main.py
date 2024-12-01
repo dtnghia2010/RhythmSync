@@ -30,7 +30,7 @@ print("Dust: %f \n" + data6)
 
 
 # Load the .mat file (adjust 'your_file.mat' as needed)
-data = loadmat('rec_1m_ECG_ID.mat')
+data = loadmat('../ECG Data/rec_1m_ECG_ID.mat')
 ecgsig = data['val'].flatten() / 200  # Normalize similar to MATLAB
 
 Fs = int(input("Enter Sampling Rate: "))  # Manually input sampling rate
