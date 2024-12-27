@@ -48,11 +48,8 @@
 
 ## 🎨 Visuals
 
-![Real-Time ECG Signal](images/real_time_ecg.png)
-*Real-time ECG signal visualization.*
-
-![Heart Rate Peaks](images/heart_rate_peaks.png)
-*Detected heart rate peaks.*
+![Real-Time ECG Signal](images/Project_Overview.png)
+*Project Overview.*
 
 ![Heart Rate Peaks](images/ECG_device.png)
 *Detected heart rate peaks.*
