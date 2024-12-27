@@ -49,10 +49,12 @@
 ## 🎨 Visuals
 
 ![Real-Time ECG Signal](images/Project_Overview.png)
+
 *Project Overview.*
 
-![Heart Rate Peaks](images/ECG_device.png)
-*Detected heart rate peaks.*
+![Heart Rate Peaks](images/ECG_Device.png)
+
+*Final Product: ECG Device.*
 
 ---
 
